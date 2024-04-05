@@ -115,6 +115,7 @@
 	economic_power = 4
 	minimal_player_age = 7
 	minimum_character_age = list(SPECIES_HUMAN = 18)
+	maximum_character_age = list(SPECIES_HUMAN = 45)
 	alt_titles = list(
 		"Security Trooper",
 	)

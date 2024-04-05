@@ -227,4 +227,9 @@
 	job_access_type = /datum/job/marine
 	detail_color = COLOR_RED
 
+/obj/item/card/id/intrepid/crew/marine_veteran
+	job_access_type = /datum/job/marine_veteran
+	detail_color = COLOR_RED
+	extra_details = list("onegoldstripe")
+
 #undef ALIEN_ID_COLOR

@@ -108,6 +108,9 @@
 	item_state = "gy_suit"
 	worn_state = "greyutility"
 
+/obj/item/clothing/under/terragov/utility/army/urban/marine_old
+	desc = "An outdated Terran Government marine corps uniform used during civil war era. This kind of attire is now commonly used by the army instead."
+
 /obj/item/clothing/under/terragov/utility/army/tan
 	name = "tan fatigues"
 	desc = "A tan version of the TG Army utility uniform, made from durable material."
