@@ -282,7 +282,7 @@
 			),
 		)
 
-/datum/job/squad_leader/get_description_blurb()
+/datum/job/marine_veteran/get_description_blurb()
 	return "You are a Marine Corps Veteran. \
 			<br><hr><br>\
 			You are an old marine that have seen quite a lot of combat, maybe even personally knew some of the civil war heroes. \

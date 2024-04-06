@@ -21,7 +21,7 @@
 #define HUMAN_ONLY_JOBS /datum/job/captain, /datum/job/hop, /datum/job/representative, \
 /datum/job/warden, /datum/job/officer, /datum/job/detective, \
 /datum/job/senior_engineer, /datum/job/senior_scientist, \
-/datum/job/marine, /datum/job/marine_medic, /datum/job/marine_engineer, \
+/datum/job/marine, /datum/job/marine_medic, /datum/job/marine_engineer, /datum/job/marine_veteran,\
 /datum/job/squad_leader, /datum/job/cmo, /datum/job/chief_engineer, /datum/job/hos, \
 /datum/job/rd, /datum/job/bridgeofficer, /datum/job/qm
 
@@ -39,7 +39,7 @@
 	allowed_jobs = list(/datum/job/captain, /datum/job/hop, /datum/job/rd, /datum/job/cmo, /datum/job/chief_engineer, /datum/job/hos,
 						/datum/job/representative, /datum/job/psiadvisor,
 						/datum/job/bridgeofficer,
-						/datum/job/squad_leader, /datum/job/marine_medic, /datum/job/marine_engineer, /datum/job/marine,
+						/datum/job/squad_leader, /datum/job/marine_medic, /datum/job/marine_engineer, /datum/job/marine, /datum/job/marine_veteran,
 						/datum/job/senior_engineer, /datum/job/engineer, /datum/job/roboticist, /datum/job/engineer_trainee,
 						/datum/job/warden, /datum/job/officer, /datum/job/detective,
 						/datum/job/senior_doctor, /datum/job/doctor, /datum/job/chemist, /datum/job/medical_trainee,
